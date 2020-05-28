@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <id>test</id>
+    <item name="item0_name">
+        <itemId>
+            <id>item0</id>
+            <nid>item0</nid>
+        </itemId>
+        <buyPrice>0</buyPrice>
+        <sellPrice>0</sellPrice>
+    </item>
+    <item name="item1_name">
+        <itemId>
+            <id>item1</id>
+            <nid>item1</nid>
+        </itemId>
+        <buyPrice>1</buyPrice>
+        <sellPrice>1</sellPrice>
+    </item>
+    <item name="item2_name">
+        <itemId>
+            <id>item2</id>
+        </itemId>
+        <buyPrice>2</buyPrice>
+        <sellPrice>2</sellPrice>
+    </item>
+    <item name="item3_name">
+        <itemId>
+            <id>item3</id>
+        </itemId>
+        <buyPrice>3</buyPrice>
+        <sellPrice>3</sellPrice>
+    </item>
+
+    <drop>
+        <id>item0</id>
+        <item name="item0_name">
+            <itemId>
+                <id>item0</id>
+                <nid>item0</nid>
+            </itemId>
+            <buyPrice>0</buyPrice>
+            <sellPrice>0</sellPrice>
+        </item>
+    </drop>
+    <drop>
+        <id>item1</id>
+        <item name="item1_name">
+            <itemId>
+                <id>item1</id>
+                <nid>item1</nid>
+            </itemId>
+            <buyPrice>1</buyPrice>
+            <sellPrice>1</sellPrice>
+        </item>
+    </drop>
+    <drop>
+        <id>item2</id>
+        <item name="item2_name">
+            <itemId>
+                <id>item2</id>
+            </itemId>
+            <buyPrice>2</buyPrice>
+            <sellPrice>2</sellPrice>
+        </item>
+    </drop>
+    <drop>
+        <id>item3</id>
+        <item name="item3_name">
+            <itemId>
+                <id>item3</id>
+            </itemId>
+            <buyPrice>3</buyPrice>
+            <sellPrice>3</sellPrice>
+        </item>
+    </drop>
+</root>
